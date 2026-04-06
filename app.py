@@ -6,7 +6,7 @@ import urllib.parse
 
 # 1. Database Connection ki settings
 user = "root"
-password = "Chhikara@89505"
+password = "YOUR Password"
 encoded_password = urllib.parse.quote_plus(password)
 host = "localhost"
 db_name = "bmw_db"
